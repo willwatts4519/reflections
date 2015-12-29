@@ -13,3 +13,6 @@ You can work off-line and make changes and test things off that change.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without, I would create documents and change names, then e-mail and give or get comments back. It would be easier to track documents, and provide a similar amount of control, but my old way would be simpler for folks who do not have git.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I want to experiement with a change or keep 2 versions.
